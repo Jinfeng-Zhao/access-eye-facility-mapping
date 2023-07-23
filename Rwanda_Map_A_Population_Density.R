@@ -1,7 +1,7 @@
 # This code creates a population density map for Rwanda at the national level.
 # The bar chart legend displays the percentage of the Rwanda population aged 50 and over by population density.
 
-# Created by: Jinfeng Zhao, Jacqueline Ramke and Ian McCormick
+# Created by: Jinfeng Zhao, Jacqueline Ramke, Ian McCormick, John Nesemann and Kevin Tang
 # Last modified: 21 July 2023
 
 
