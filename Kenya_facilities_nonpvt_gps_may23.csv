@@ -1,0 +1,78 @@
+﻿Country,Region,Facility Name,Renamed facility type,Owner,Lat,Long,LL Source,Permanent ophthalmic staff (any level),Cataract surgical services
+Kenya,Baringo,Eldama Ravine county Hospital,county Hospital,MoH,0.0473,35.7302,GPS,Yes,Permanent
+Kenya,Baringo,Kabarnet county Hospital,county Hospital,MoH,0.4926,35.7434,GPS,Yes,Permanent
+Kenya,Baringo,Kabartonjo county Hospital,county Hospital,MoH,0.6257,35.7892,GPS,Yes,Occasional
+Kenya,Bomet,Longisa county Hospital,county Hospital,MoH,-0.8579,35.3894,GPS,Yes,Permanent
+Kenya,Bomet,Tenwek Mission Hospital,Mission Hospital,FBO,-0.7442,35.3593,GPS,Yes,Permanent
+Kenya,Bungoma,Bungoma County Referal Hospital,County Referral Hospital,MoH,0.5755,34.5594,GPS,Yes,Permanent
+Kenya,Bungoma,Webuye Sub county Hospital,Sub-county Hospital,MoH,0.6130,34.7644,Google Earth,Yes,Permanent
+Kenya,Busia,Busia county Hospital,county Hospital,MoH,0.4604,34.1045,GPS,Yes,Permanent
+Kenya,Busia,Teso North Sub-County Hospital,Sub-county Hospital,MoH,0.6225,34.3448,GPS,Yes,Permanent
+Kenya,Elgeyo Marakwet,Iten county Hospital,county Hospital,MoH,0.6703,35.5075,GPS,Yes,Permanent
+Kenya,Embu,Embu Provincial General Hospital,Provincial General Hospital,MoH,-0.5368,37.4518,GPS,Yes,Permanent
+Kenya,Garissa,Garissa Provincial General Hospital,Provincial General Hospital,MoH,-0.4278,39.6440,GPS,Yes,Permanent
+Kenya,Homa Bay,Homa Bay County Teaching and Referral Hospital,County Referral Hospital,MoH,-0.5305,34.4606,GPS,Yes,Permanent
+Kenya,Isiolo,Isiolo county Hospital,county Hospital,MoH,0.3648,37.5888,GPS,Yes,Permanent
+Kenya,Kajiado,Loitokitok county Hospital,county Hospital,MoH,-2.9277,37.5093,GPS,Yes,Permanent
+Kenya,Kakamega,Kakamega Provincial General Hospital,Provincial General Hospital,MoH,0.2750,34.7588,GPS,Yes,Permanent
+Kenya,Kericho,Kapkatet county Hospital,county Hospital,MoH,-0.6298,35.1962,Google Earth,Yes,Permanent
+Kenya,Kericho,Kericho county Hospital,county Hospital,MoH,-0.3690,35.2794,GPS,Yes,Permanent
+Kenya,Kericho,Litein AIC Mission Hospital,Mission Hospital,FBO,-0.5816,35.1885,Google Earth,Yes,Permanent
+Kenya,Kiambu,Gatundu county Hospital,county Hospital,MoH,-1.0157,36.9058,GPS,Yes,Permanent
+Kenya,Kiambu,Kiambu county Hospital,county Hospital,MoH,-1.1694,36.8299,GPS,Yes,Permanent
+Kenya,Kiambu,Kijabe AIC Hospital,Mission Hospital,FBO,-0.9435,36.5943,GPS,Yes,Permanent
+Kenya,Kiambu,Kikuyu PCEA Hospital,Mission Hospital,FBO,-1.2450,36.6652,GPS,Yes,Permanent
+Kenya,Kiambu,Thika Level 5 Hospital,Provincial General Hospital,MoH,-1.0415,37.0763,GPS,Yes,Permanent
+Kenya,Kilifi,Tawfiq Muslim Hospital,Mission Hospital,FBO,-3.2209,40.1127,GPS,Yes,Permanent
+Kenya,Kirinyaga,Kerugoya county Hospital,county Hospital,MoH,-0.5013,37.2805,GPS,Yes,Permanent
+Kenya,Kisii,Innovation  Eye Centre,Private social enterprise,NGO,-0.6773,34.7796,Google Maps,Yes,Permanent
+Kenya,Kisii,Kisii Level 5 Hospital,county Hospital,MoH,-0.6682,34.7704,GPS,Yes,Permanent
+Kenya,Kitui,Kitui county Hospital,county Hospital,MoH,-1.3656,38.0119,GPS,Yes,Permanent
+Kenya,Kwale,Kwale Eye Centre,Mission Hospital,FBO,-4.1619,39.6168,Google Maps,Yes,Permanent
+Kenya,Laikipia,Nanyuki county Hospital,county Hospital,MoH,0.0151,37.0789,GPS,Yes,Permanent
+Kenya,Machakos,Kangundo county Hospital,county Hospital,MoH,-1.2956,37.3454,GPS,Yes,Permanent
+Kenya,Machakos,Machakos Level 5 Hospital,Provincial General Hospital,MoH,-1.5204,37.2665,GPS,Yes,Permanent
+Kenya,Makueni,Makueni county Hospital,county Hospital,MoH,-1.7810,37.6270,GPS,Yes,Permanent
+Kenya,Mandera,Elwak county Hospital,county Hospital,MoH,2.8055,40.9304,GPS,Yes,Permanent
+Kenya,Mandera,Mandera county Hospital,county Hospital,MoH,3.9384,41.8645,GPS,Yes,Permanent
+Kenya,Marsabit,Marsabit county Hospital,county Hospital,MoH,2.3239,37.9909,Google Earth,Yes,Permanent
+Kenya,Meru,Meru county Hospital,county Hospital,MoH,0.0512,37.6508,GPS,Yes,Permanent
+Kenya,Migori,Migori county Hospital,county Hospital,MoH,-1.0604,34.4763,GPS,Yes,Permanent
+Kenya,Mombasa,Coast Province General Hospital,Provincial General Hospital,MoH,-4.0280,39.6862,GPS,Yes,Permanent
+Kenya,Mombasa,Lighthouse For Christ Eye Hospital,Mission Hospital,FBO,-4.0499,39.6755,Google Maps,Yes,Permanent
+Kenya,Mombasa,Pwani Lions Medical Centre,CBO,CBO,-4.0608,39.6654,Google Maps,Yes,Permanent
+Kenya,Murang'a,Kenneth Matiba Eye and Dental Hospital,county Hospital,MoH,-0.9380,37.1250,Google Maps,Yes,Permanent
+Kenya,Murang'a,Maragua county Hospital,county Hospital,MoH,-0.7869,37.1266,GPS,Yes,Permanent
+Kenya,Nairobi,City Eye Hospital,Private social enterprise,NGO,-1.2962,36.8078,Google Maps,Yes,Permanent
+Kenya,Nairobi,Kenyatta National Hospital,National Referral Hospital,MoH,-1.3009,36.8064,GPS,Yes,Permanent
+Kenya,Nairobi,Lions Eye Hospital,CBO,CBO,-1.2553,36.7502,Google Maps,Yes,Permanent
+Kenya,Nairobi,Mama Lucy Kibaki Hospital,Provincial General Hospital,MoH,-1.2739,36.8985,Google Earth,Yes,Permanent
+Kenya,Nairobi,Mbagathi county Hospital,county Hospital,MoH,-1.3079,36.8022,GPS,Yes,Permanent
+Kenya,Nairobi,St Mary's Mission Hospital,Mission Hospital,FBO,-1.3223,36.7744,GPS,Yes,Permanent
+Kenya,Nakuru,Nakuru Provincial General Hospital,Provincial General Hospital,MoH,-0.2813,36.0732,GPS,Yes,Permanent
+Kenya,Nakuru,St Mary's Hospital,Mission Hospital,FBO,-0.4145,36.2572,Google Earth,Yes,Permanent
+Kenya,Nandi,Kapsabet county Hospital,county Hospital,MoH,0.2032,35.0994,GPS,Yes,Permanent
+Kenya,Narok,Narok county Hospital,county Hospital,MoH,-1.0914,35.8707,GPS,Yes,Permanent
+Kenya,Narok,Transmara county Hospital,county Hospital,MoH,-1.0077,34.8818,GPS,Yes,Permanent
+Kenya,Nyamira,Nyamira county Hospital,county Hospital,MoH,-0.5624,34.9352,GPS,Yes,Permanent
+Kenya,Nyeri,Karatina county Hospital,county Hospital,MoH,-0.4758,37.1302,GPS,No,Occasional
+Kenya,Nyeri,Nyeri Provincial General Hospital ,Provincial General Hospital,MoH,-0.4240,36.9611,GPS,Yes,Permanent
+Kenya,Nyeri,Othaya Sub-county Hospital,Sub-county Hospital,MoH,-0.5399,36.9400,GPS,Yes,Permanent
+Kenya,Samburu,Maralal county Hospital,county Hospital,MoH,1.0963,36.6993,GPS,Yes,Permanent
+Kenya,Siaya,Bondo county Hospital,county Hospital,MoH,-0.0902,34.2745,GPS,Yes,Permanent
+Kenya,Siaya,Siaya county Hospital,county Hospital,MoH,0.0631,34.2839,GPS,Yes,Permanent
+Kenya,Taita Taveta,Voi Moi county Hospital,county Hospital,MoH,-3.3909,38.5621,GPS,Yes,Permanent
+Kenya,Tana River,Hola county Hospital,county Hospital,MoH,-1.4988,40.0303,GPS,Yes,Permanent
+Kenya,Tharaka Nithi,Chogoria PCEA Hospital,Mission Hospital,FBO,-0.2305,37.6279,GPS,Yes,Permanent
+Kenya,Tharaka Nithi,Chuka county Hospital,county Hospital,MoH,-0.3356,37.6458,GPS,Yes,Permanent
+Kenya,Trans Nzoia,Kitale county Hospital,county Hospital,MoH,1.0170,35.0037,GPS,Yes,Permanent
+Kenya,Turkana,Kakuma IRC  Hospital,Hospital,NGO,3.7354,34.8396,Google Earth,Yes,Permanent
+Kenya,Turkana,Lodwar county Hospital,county Hospital,MoH,3.1192,35.6013,GPS,Yes,Permanent
+Kenya,Turkana,Lokichogio AIC Health Centre,Health Centre,FBO,4.2093,34.3518,Google Earth,Yes,Occasional
+Kenya,Turkana,Lopiding Sub-county Hospital,Sub-county Hospital,MoH,4.2022,34.3828,Google Earth,Yes,Permanent
+Kenya,Uasin Gishu,Huruma county Hospital,county Hospital,MoH,0.5295,35.2471,GPS,Yes,Permanent
+Kenya,Uasin Gishu,Moi Teaching Referral Hospital,National Referral Hospital,MoH,0.5112,35.2803,GPS,Yes,Permanent
+Kenya,Vihiga,Vihiga county Hosptial,county Hospital,MoH,0.0798,34.7221,GPS,Yes,Permanent
+Kenya,Vihiga,Sabatia Eye Hospital,Mission Hospital,FBO not for profit,0.1219,34.7874,Google Maps,Yes,Permanent
+Kenya,Wajir,Wajir County Referral Hospital,County Referral Hospital,MoH,1.7476,40.0623,GPS,Yes,Permanent
+Kenya,West Pokot,Kapenguria county Hospital,county Hospital,MoH,1.2401,35.1184,GPS,Yes,Permanent

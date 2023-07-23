@@ -1,0 +1,43 @@
+﻿Country,Region,Facility Name,Renamed facility type,Owner,Lat,Long,LL Source,Permanent ophthalmic staff (any level),Cataract surgical services
+Malawi,Central,ABC Community Clinic,Clinic,Private,-13.96839,33.74136,GPS,YES,Permanent
+Malawi,Central,Child legacy clinic,Private clinic,Private,-14.06839,33.47289,Google Maps,YES,Occasional
+Malawi,Central,City Assembly Health Clinic,Clinic,Local authority,-13.98925,33.77144,GPS,YES,None
+Malawi,Central,Daeyang Luke Hospital,Mission Hospital,FBO,-13.87492,33.80894,GPS,Yes,Permanent
+Malawi,Central,Dedza District Hospital,District Hospital,MoH,-14.38359,34.33354,GPS,YES,Occasional
+Malawi,Central,Dowa District Hospital,District Hospital,MoH,-13.65508,33.93689,GPS,YES,Occasional
+Malawi,Central,Kabudula Rural Hospital,Rural Hospital,MoH,-13.81967,33.44864,GPS,No,Occasional
+Malawi,Central,Kamuzu Central Hospital,Central Hospital,MoH,-13.97656823,33.78623571,Google Maps,YES,Permanent
+Malawi,Central,Kasungu District Hospital,District Hospital,MoH,-13.03611,33.48053,GPS,YES,Occasional
+Malawi,Central,Lilongwe Adventist Hospital,Private hospital,Private,-13.95478,33.7798,Google Maps,YES,Permanent
+Malawi,Central,Lilongwe Central Hospital,Central Hospital,MoH,-13.97686,33.78586,GPS,YES,None
+Malawi,Central,Mchinji District Hospital,District Hospital,MoH,-13.8025,32.88722,GPS,YES,Occasional
+Malawi,Central,Mitundu,Rural Hospital,MoH,-14.2483,33.7744,GPS,YES,Occasional
+Malawi,Central,Nkhoma Hospital,Mission Hospital,FBO,-14.0441,34.1031,GPS,YES,Permanent
+Malawi,Central,Nkhotakota District Hospital,District Hospital,MoH,-12.92894,34.29239,GPS,YES,Occasional
+Malawi,Central,Ntcheu District Hospital,District Hospital,MoH,-14.81689,34.63831,GPS,YES,Occasional
+Malawi,Central,Ntchisi District Hospital,District Hospital,MoH,-13.36333,33.91103,GPS,YES,Occasional
+Malawi,Central,Prosight eye clinic – Lilongwe,Private clinic,Private,-13.96064,33.79474,Google Maps,YES,Permanent
+Malawi,Central,Salima District Hospital,District Hospital,MoH,-13.76178,34.42183,GPS,YES,Occasional
+Malawi,Northern,Chitipa District Hospital,District Hospital,MoH,-9.70197,33.26533,GPS,YES,Occasional
+Malawi,Northern,Mzimba District Hospital,District Hospital,MoH,-11.89808,33.58428,GPS,YES,Occasional
+Malawi,Northern,Mzuzu Central Hospital,Central Hospital,MoH,-11.42786,33.9955,GPS,YES,Permanent
+Malawi,Northern,Nkhata Bay District Hospital,District Hospital,MoH,-11.60139,34.29833,GPS,YES,Occasional
+Malawi,Northern,Rumphi District Hospital,District Hospital,MoH,-11.01972,33.85417,GPS,YES,Occasional
+Malawi,Southern,Balaka District Hospital,District Hospital,MoH,-14.98514,34.94953,GPS,YES,None
+Malawi,Southern,Chikwawa District Hospital,District Hospital,MoH,-16.02345,34.79275,GPS,YES,Occasional
+Malawi,Southern,Chiradzulu District Hospital,District Hospital,MoH,-15.69708,35.18756,GPS,YES,Occasional
+Malawi,Southern,Eye Care Centre,Private clinic,Private,-15.78318,34.99558,Google Maps,YES,Permanent
+Malawi,Southern,Machinga District Hospital,District Hospital,MoH,-15.06222,35.22611,GPS,YES,Occasional
+Malawi,Southern,Malamulo Hospital,Mission Hospital,FBO,-16.1714,35.1094,GPS,YES,None
+Malawi,Southern,Mangochi District Hospital,District Hospital,MoH,-14.48194,35.26472,GPS,YES,Occasional
+Malawi,Southern,Mlambe Hospital,Mission Hospital,FBO,-15.64478,35.01725,GPS,YES,None
+Malawi,Southern,Mulanje District Hospital,District Hospital,MoH,-16.02555,35.5075,GPS,YES,Occasional
+Malawi,Southern,Mwanza District Hospital,District Hospital,MoH,-15.59111,34.51133,GPS,YES,Occasional
+Malawi,Southern,Neno Rural Hospital,Rural Hospital,MoH,-15.395,34.65361,GPS,YES,Occasional
+Malawi,Southern,Nsanje District Hospital,District Hospital,MoH,-16.91769,35.25989,GPS,YES,Occasional
+Malawi,Southern,Premier specialist clinic,Private clinic,Private,-15.80865,35.004,Google Maps,YES,Permanent
+Malawi,Southern,Prosight eye clinic – Blantyre,Private clinic,Private,-15.785428,35.016374,Google Maps,YES,Permanent
+Malawi,Southern,Queen Elizabeth Central Hospital,Central Hospital,MoH,-15.80208,35.02072,GPS,YES,Permanent
+Malawi,Southern,Thyolo District Hospital,District Hospital,MoH,-16.07019,35.15219,GPS,YES,Occasional
+Malawi,Southern,Trinity Hospital,Mission Hospital,FBO,-16.41917,35.17175,GPS,YES,Occasional
+Malawi,Southern,Zomba Central Hospital,Central Hospital,MoH,-15.39914,35.31286,GPS,YES,Permanent
