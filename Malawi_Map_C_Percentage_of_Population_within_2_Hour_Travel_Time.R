@@ -2,7 +2,7 @@
 # within 2 hours of motorised travel time to a permanent cataract surgery facility.
 # The bar chart legend displays the percentage of Malawi population aged 50 and over by county.
 
-# Created by: Jinfeng Zhao, Jacqueline Ramke and Ian McCormick
+# Created by: Jinfeng Zhao, Jacqueline Ramke, Ian McCormick, John Nesemann and Kevin Tang
 # Last modified: 21 July 2023
 
 
